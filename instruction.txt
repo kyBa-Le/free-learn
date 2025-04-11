@@ -1,0 +1,7 @@
+1. run: php artisan install:api
+2. create ProductController in api
+3. return value in product controller api and create a route for it in api.php file
+
+__handle in frontend
+1. create js file and link to view (module script) + link axios: <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+2. get data and return (in file js)
